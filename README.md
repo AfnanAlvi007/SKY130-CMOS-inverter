@@ -42,9 +42,9 @@ ngspice simulation/inverter_sim.cir
 ## Files
 
 
-├── layout/inverter.mag
-├── netlist/inverter_extracted.sp
-└── simulation/inverter_sim.cir
+── layout/inverter.mag
+── netlist/inverter_extracted.sp
+── simulation/inverter_sim.cir
 
 
 
